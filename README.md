@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Aquariiius</h1>
+<h1 align="center">Hi 👋,I'm ✨ Aquariiius ✨</h1>
 <p align="center">
 
 </p>
