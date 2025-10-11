@@ -24,7 +24,7 @@
 
 ### 🧑‍💻 About Me
 - 🌱 Currently learning **Python**, with a focus on Artificial Intelligence architecture.
-- 💬 Passionate about **Language Large Model, Computer Vision, web backend design, API optimization**
+- 💬 Passionate about **Language Large Model, Multi model, web backend design, API optimization**
 - ☕ Big fan of **coding marathons**, enjoy solving algorithm problems and exploring new frameworks
 - 🎮 Outside of coding: **A lot of hobbies:** Basketball, Badminton, Swimming and Photography
 
