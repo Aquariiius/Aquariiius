@@ -3,7 +3,7 @@
 <p align="center">
 
 </p>
-<h3 align="center">🚀 A passionate developer exploring the AI world(This profile is still updating, not perfect.)</h3>
+<h3 align="center">🚀 A passionate developer exploring the AI world</h3>
 <!--
 
 <p align="center">
