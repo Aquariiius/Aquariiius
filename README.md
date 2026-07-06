@@ -25,7 +25,7 @@
 ### 🧑‍💻 About Me
 - 🌱 Currently learning **Python**, with a focus on Artificial Intelligence architecture.
 - 💬 Passionate about **Large Language Model, Agent**
-- ☕ Big fan of **coding marathons**, enjoy solving algorithm problems and exploring new frameworks
+- ☕ Big fan of **life**, enjoy solving algorithm problems and traveling around the world
 - 🎮 Outside of coding: **A lot of hobbies:** Basketball, Badminton, Swimming and Photography
 
 <!-- Daily Quote & Hobby Side by Side -->
